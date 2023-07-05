@@ -10,7 +10,6 @@ public class FizzBuzzz {
                 System.out.println("Fizz");
             }
             else {
-                System.out.println("ZALUPA");
                 System.out.println(i);
             }
         }
